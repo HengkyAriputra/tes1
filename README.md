@@ -1,2 +1,2 @@
-# tes1
-testing repository
+# test logika
+test logika repository
